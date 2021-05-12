@@ -1,2 +1,6 @@
 Toi la Toi
+<<<<<<< HEAD
 chinh sua boi bi
+=======
+chinh sua boi ci
+>>>>>>> ci
