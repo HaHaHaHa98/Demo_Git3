@@ -1,2 +1,6 @@
 Xin chao moi nguoi
+<<<<<<< HEAD
 cee cho chet
+=======
+Toi la ai
+>>>>>>> bee
