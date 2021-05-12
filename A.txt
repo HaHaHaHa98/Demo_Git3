@@ -1,6 +1,2 @@
-Xin chao moi nguoi
-<<<<<<< HEAD
-cee cho chet
-=======
-Toi la ai
->>>>>>> bee
+Toi la Toi
+chinh sua boi bi
